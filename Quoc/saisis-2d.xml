@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<SetOfMesureAppuisFlottants>
+     <MesureAppuiFlottant1Im>
+          <NameIm>vincennesVSR_1803200916_01_01023_4dark.tif_fix.tif</NameIm>
+          <OneMesureAF1I>
+               <NamePt>D180</NamePt>
+               <PtIm>1286.09021110170738 261.974498236988438</PtIm>
+          </OneMesureAF1I>
+	  <OneMesureAF1I>
+               <NamePt>v23</NamePt>
+               <PtIm>1286.09021110170738 261.974498236988438</PtIm>
+          </OneMesureAF1I>
+	  <OneMesureAF1I>
+               <NamePt>V25</NamePt>
+               <PtIm>1286.09021110170738 261.974498236988438</PtIm>
+          </OneMesureAF1I>
+	  <OneMesureAF1I>
+               <NamePt>V271</NamePt>
+               <PtIm>1286.09021110170738 261.974498236988438</PtIm>
+          </OneMesureAF1I>
+     </MesureAppuiFlottant1Im>
+     <MesureAppuiFlottant1Im>
+          <NameIm>vincennesVSR_1803200916_01_01024_4dark.tif_fix.tif</NameIm>
+          <OneMesureAF1I>
+               <NamePt>D180</NamePt>
+               <PtIm>1305.40825762606528 590.412522680933307</PtIm>
+          </OneMesureAF1I>
+     </MesureAppuiFlottant1Im>
+</SetOfMesureAppuisFlottants>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<DicoAppuisFlottant>
+     <OneAppuisDAF>
+          <Pt>658306.852799999993 6860520.80140000023 53.7398999999999987</Pt>
+          <NamePt>AF0</NamePt>
+          <Incertitude>1 1 1</Incertitude>
+     </OneAppuisDAF>
+     <OneAppuisDAF>
+          <Pt>658311.90670000005 6860555.24299999978 54.410499999999999</Pt>
+          <NamePt>AF2</NamePt>
+          <Incertitude>1 1 1</Incertitude>
+     </OneAppuisDAF>
+     <OneAppuisDAF>
+          <Pt>658307.771999999997 6860527.35649999976 54.1918999999999969</Pt>
+          <NamePt>AF8</NamePt>
+          <Incertitude>1 1 1</Incertitude>
+     </OneAppuisDAF>
+     <OneAppuisDAF>
+          <Pt>658304.020000000019 6860518.6481999997 53.7175999999999974</Pt>
+          <NamePt>D180</NamePt>
+          <Incertitude>1 1 1</Incertitude>
+     </OneAppuisDAF>
+     <OneAppuisDAF>
+          <Pt>658265.381300000008 6860517.81790000014 50.278100000000002</Pt>
+          <NamePt>D235</NamePt>
+          <Incertitude>1 1 1</Incertitude>
+     </OneAppuisDAF>
+     <OneAppuisDAF>
+          <Pt>658302.448100000038 6860563.75310000032 54.2817000000000007</Pt>
+          <NamePt>FR17B</NamePt>
+          <Incertitude>1 1 1</Incertitude>
+     </OneAppuisDAF>
+     <OneAppuisDAF>
+          <Pt>658281.794100000057 6860566.90710000042 53.3365999999999971</Pt>
+          <NamePt>FR19</NamePt>
+          <Incertitude>1 1 1</Incertitude>
+     </OneAppuisDAF>
+     <OneAppuisDAF>
+          <Pt>658263.57090000005 6860553.65000000037 53.1905000000000001</Pt>
+          <NamePt>V19</NamePt>
+          <Incertitude>1 1 1</Incertitude>
+     </OneAppuisDAF>
+     <OneAppuisDAF>
+          <Pt>658263.862800000003 6860549.38970000017 53.0287000000000006</Pt>
+          <NamePt>V21</NamePt>
+          <Incertitude>1 1 1</Incertitude>
+     </OneAppuisDAF>
+     <OneAppuisDAF>
+          <Pt>658261.378499999992 6860541.02029999997 54.3455000000000013</Pt>
+          <NamePt>V23</NamePt>
+          <Incertitude>1 1 1</Incertitude>
+     </OneAppuisDAF>
+     <OneAppuisDAF>
+          <Pt>658260.34169999999 6860534.49579999968 53.6141999999999967</Pt>
+          <NamePt>V25</NamePt>
+          <Incertitude>1 1 1</Incertitude>
+     </OneAppuisDAF>
+     <OneAppuisDAF>
+          <Pt>658258.901799999992 6860524.8470999999 54.8691999999999993</Pt>
+          <NamePt>V271</NamePt>
+          <Incertitude>1 1 1</Incertitude>
+     </OneAppuisDAF>
+</DicoAppuisFlottant>

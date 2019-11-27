@@ -1,0 +1,71 @@
+<Global>
+
+	<ChantierDescripteur >
+
+		<LocCamDataBase>
+			<CameraEntry>
+				<Name> TheHead </Name>
+				<SzCaptMm> 8.6 6.6 </SzCaptMm>
+				<ShortName> TheHead </ShortName>
+			</CameraEntry>
+		</LocCamDataBase>
+
+  <KeyedNamesAssociations>
+             <Calcs>
+                 <Arrite>  1 1 </Arrite>
+                 <Direct>
+	               <PatternTransform> vincennesVSR.*.tif </PatternTransform>
+                       <CalcName>  TheHead </CalcName>
+                 </Direct>
+             </Calcs>
+              <Calcs>
+                 <Arrite>  1 1 </Arrite>
+                 <Direct>
+	               <PatternTransform> c[0-9]_.*.tif </PatternTransform>
+                       <CalcName>  TheHead </CalcName>
+                 </Direct>
+             </Calcs>
+             <Key>   NKS-Assoc-STD-CAM </Key>
+
+    </KeyedNamesAssociations>
+		<KeyedNamesAssociations>
+			<Calcs>
+				<Arrite> 1 1 </Arrite>
+				<Direct>
+	               			<PatternTransform> vincennesVSR.*.tif </PatternTransform>
+					<CalcName> 4.4 </CalcName>
+				</Direct>
+			</Calcs>	
+			<Calcs>
+				<Arrite> 1 1 </Arrite>
+				<Direct>
+					<PatternTransform> c[0-9]_.*.tif </PatternTransform>
+					<CalcName> 4.4 </CalcName>
+				</Direct>
+			</Calcs>
+			<Key> NKS-Assoc-STD-FOC </Key>
+		</KeyedNamesAssociations>
+ 
+
+    <KeyedNamesAssociations>
+        <Calcs>
+            <Arrite> 1 1 </Arrite>
+            <Direct>
+                <PatternTransform>  vincennesVSR_1803200916_0._....._(.)dark.tif_fix\.tif </PatternTransform>
+                <CalcName> HEAD$1 </CalcName>
+                </Direct>
+        </Calcs>
+        <Calcs>
+            <Arrite> 1 1 </Arrite>
+            <Direct>
+                <PatternTransform>  c(.)_VincPolyg_1803201148_.._([0-9]{5})_.dark.tif_fix\.tif </PatternTransform>
+                <CalcName> HEAD$1 </CalcName>
+                </Direct>
+        </Calcs>
+        <Key> NKS-Assoc-StdIdAdditionnelCam </Key>
+    </KeyedNamesAssociations>
+ 
+
+
+	</ChantierDescripteur>
+</Global>
